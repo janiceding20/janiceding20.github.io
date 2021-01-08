@@ -1,10 +1,10 @@
 ## Portfolio
 
----
+Listed below are the projects which I've worked on in the course of the Associate Data Analyst programme
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Basic of Data Science](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
