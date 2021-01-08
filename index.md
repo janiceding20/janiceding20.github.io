@@ -5,8 +5,7 @@ Sharing the projects which I've worked on in the course of taking the Data Analy
 
 ### Associate Data Analyst Programme
 
-[Basic of Data Science](/sample_page)
-<img src="pdf/Healthcare Analytics.pdf?raw=true"/>
+[Basic of Data Science](/pdf/Healthcare Analytics.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
