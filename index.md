@@ -7,6 +7,7 @@ Sharing the projects which I've worked on in the course of taking the Data Analy
 
 [Basic of Data Science](/sample_page)
 <img src="pdf/Healthcare Analytics.pdf?raw=true"/>
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
