@@ -5,7 +5,7 @@ Projects which I've worked on over the course of the Data Analyst Programme.
 
 ### Associate Data Analyst Programme
 
-[Basic of Data Science](/pdf/Healthcare Analytics.pdf)
+[Basic of Data Science](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
