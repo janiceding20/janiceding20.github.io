@@ -5,7 +5,7 @@ Projects which I've worked on over the course of the Data Analyst Programme.
 
 ### Associate Data Analyst Programme
 
-[Basic of Data Science](janiceding20.github.io/pdf/sample_presentation.pdf)
+[Basic of Data Science](janiceding20.github.io/pdf/healthcare_analytics.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
