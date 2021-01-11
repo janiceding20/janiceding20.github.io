@@ -1,6 +1,6 @@
 ## Portfolio
 
-Sharing the projects which I've worked on in the course of taking the Data Analyst Programme
+Projects which I've worked on over the course of the Data Analyst Programme.
 
 
 ### Associate Data Analyst Programme
