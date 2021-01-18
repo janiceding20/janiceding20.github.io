@@ -26,6 +26,14 @@ Business performance and insights were presented as interactive dashboards and v
 
 ---
 [Capstone 2: Relational Database and MS Excel Dashboard](http://example.com/)
+<br><br>
+The scope of work is similar to Capstone project 1 except for the use of relational database in this project.
+To provide an insight into the world of Airbnb hosting, I have downloaded the datasets from Inside Airbnb relating to Australia.
+The datasets were imported into Dbeaver (SQL client software application) for analysis.
+I've used basic SQL queries to perform exploratory analysis on the data.  The individual datasets were combined and Views were created to include only the required columns.
+The data is then imported into Excel Power Query directly from Dbeaver.  Further data preparation is performed through Power Query.
+Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds for better visualization.
+<br><br>
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
