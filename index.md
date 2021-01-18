@@ -35,7 +35,7 @@ The data is then imported into Excel Power Query directly from Dbeaver.  Further
 Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds to aid visualization.  The file size of the 3D map tour video is too big to be uploaded.  I have instead saved it as PDF slides.  Both Airbnb Australia excel dashboard and 3D map can be downloaded from the link below.
 <br><br>
 [Capstone project 2 - Airbnb Australia](https://github.com/janiceding20/Capstone-Project-2/blob/main/Airbnb%20Australia%20v5.xlsx) <br>
-[Capstone project 2 - 3D Map in PDF](janiceding20.github.io/pdf/Capstone2_3Dmap.pdf)
+[Capstone project 2 - 3D map in PDF](janiceding20.github.io/pdf/Capstone2_3Dmap.pdf)
 <br><br>
 <img src="images/Capstone2_DB1.png?raw=true"/>
 <img src="images/Capstone2_DB2.png?raw=true"/>
