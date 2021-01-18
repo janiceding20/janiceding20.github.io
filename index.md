@@ -6,7 +6,9 @@ Projects which I've worked on over the course of the Data Analyst Programme.
 ### Associate Data Analyst Programme
 
 [Basic of Data Science](janiceding20.github.io/pdf/healthcare_analytics.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+This is a presentation on the practical application of data science in Healthcare.
+The different aspects of the basics of data science application in Healthcare were identified including the benefits and pitfalls.
+Please click on the title to access the slides.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
