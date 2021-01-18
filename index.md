@@ -16,7 +16,7 @@ Please click on the title to view the slides.
 [Capstone 1: Interactive Dashboards and Data Storytelling with Excel](janiceding20.github.io/pdf/Capstone1_InteractiveDB.pdf)
 <br><br>
 The objective of this project is to exhibit the 5 stages of data life cycle through the use of MS Excel.
-The topline financial data of a leasing company was collected and load to Power Query to perform data cleaning and transformation.
+The topline financial data of a leasing company was collected and loaded to Power Query to perform data cleaning and transformation.
 Exploratory data analysis was performed on the data to derive useful insights.
 Business performance interactive dashboards and visualization were created using power pivot charts and various excel charting techniques
 <br><br>
