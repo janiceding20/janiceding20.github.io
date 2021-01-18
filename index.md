@@ -32,7 +32,7 @@ To provide an insight into the world of Airbnb hosting, I have downloaded the da
 The datasets were imported into Dbeaver (SQL client software application) for analysis.
 I've used basic SQL queries to perform exploratory analysis on the data.  The individual datasets were combined and Views were created to include only the required columns.
 The data is then imported into Excel Power Query directly from Dbeaver.  Further data preparation is performed through Power Query.
-Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds for better visualization.
+Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds to aid visualization.
 <br><br>
 <img src="images/Capstone2_DB1.png?raw=true"/>
 <img src="images/Capstone2_DB2.png?raw=true"/>
