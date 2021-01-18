@@ -34,8 +34,10 @@ I've used basic SQL queries to perform exploratory analysis on the data.  The in
 The data is then imported into Excel Power Query directly from Dbeaver.  Further data preparation is performed through Power Query.
 Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds to aid visualization.  The file size of the 3D map tour video is too big to be uploaded.  I have instead saved it as PDF slides.
 <br>
+---
 [Capstone2 - Airbnb Australia] (https://github.com/janiceding20/Capstone-Project-2/blob/main/Airbnb%20Australia%20v5.xlsx) <br>
 [3D Map in PDF] (janiceding20.github.io/pdf/Capstone2_3Dmap.pdf)
+---
 <br><br>
 <img src="images/Capstone2_DB1.png?raw=true"/>
 <img src="images/Capstone2_DB2.png?raw=true"/>
