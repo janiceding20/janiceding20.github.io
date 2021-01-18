@@ -13,7 +13,7 @@ The different aspects of the basics of data science application in Healthcare we
 Please click on the title to view the slides.
 
 ---
-[Capstone 1: Interactive Dashboards and Data Storytelling with Excel](janiceding20.github.io/pdf/Capstone1_Interactive DB.pdf)
+[Capstone 1: Interactive Dashboards and Data Storytelling with Excel](janiceding20.github.io/pdf/Capstone1_InteractiveDB.pdf)
 <br><br>
 The objective of this project is to exhibit the 5 stages of data life cycle through the use of MS Excel.
 The topline financial data of a leasing company was collected and load to Power Query to perform data cleaning and transformation.
@@ -25,14 +25,14 @@ Business performance and insights were presented as interactive dashboards and v
 <img src="images/Capstone1_DB3.png?raw=true"/>
 
 ---
-[Capstone 2: Relational Database and MS Excel Dashboard](http://example.com/)
+[Capstone 2: Relational Database and MS Excel Dashboard](janiceding20.github.io/pdf/Capstone2_3Dmap.pdf)
 <br><br>
 The scope of work is similar to Capstone project 1 except for the use of relational database in this project.
 To provide an insight into the world of Airbnb hosting, I have downloaded the datasets from Inside Airbnb relating to Australia.
 The datasets were imported into Dbeaver (SQL client software application) for analysis.
 I've used basic SQL queries to perform exploratory analysis on the data.  The individual datasets were combined and Views were created to include only the required columns.
 The data is then imported into Excel Power Query directly from Dbeaver.  Further data preparation is performed through Power Query.
-Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds to aid visualization.
+Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds to aid visualization.  The file size of the 3D map tour video is too big to be uploaded.  I have instead saved it as PDF slides and it is linked to the project title.
 <br><br>
 <img src="images/Capstone2_DB1.png?raw=true"/>
 <img src="images/Capstone2_DB2.png?raw=true"/>
