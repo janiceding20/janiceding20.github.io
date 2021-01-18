@@ -13,8 +13,8 @@ The different aspects of the basics of data science application in Healthcare we
 Please click on the title to access the slides.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Capstone 1: Interactive Dashboards and Data Storytelling with Excel](janiceding20.github.io/pdf/Capstone1_Interactive DB.pdf)
+<img src="images/Capstone1_DB1.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
