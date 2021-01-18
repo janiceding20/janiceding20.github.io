@@ -18,7 +18,7 @@ Please click on the title to view the slides.
 The objective of this project is to exhibit the 5 stages of data life cycle through the use of MS Excel.
 The topline financial data of a leasing company was collected and load to Power Query to perform data cleaning and transformation.
 Exploratory data analysis was performed on the data to derive useful insights.
-The business performance and insights are translated using power pivot charts and data summarization techniques into interactive dashboards and visualization. 
+Business performance and insights were presented as interactive dashboards and visualization using power pivot charts and various excel charting techniques.
 <br><br>
 <img src="images/Capstone1_DB1.png?raw=true"/>
 
