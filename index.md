@@ -35,6 +35,8 @@ The data is then imported into Excel Power Query directly from Dbeaver.  Further
 Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds for better visualization.
 <br><br>
 <img src="images/Capstone2_DB1.png?raw=true"/>
+<img src="images/Capstone2_DB2.png?raw=true"/>
+<img src="images/Capstone2_DB3.png?raw=true"/>
 
 ---
 
