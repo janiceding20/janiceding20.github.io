@@ -21,6 +21,8 @@ Exploratory data analysis was performed on the data to derive useful insights.
 Business performance and insights were presented as interactive dashboards and visualization using power pivot charts and various excel charting techniques.
 <br><br>
 <img src="images/Capstone1_DB1.png?raw=true"/>
+<img src="images/Capstone1_DB2.png?raw=true"/>
+<img src="images/Capstone1_DB3.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
