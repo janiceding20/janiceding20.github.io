@@ -9,7 +9,7 @@ Projects which I've worked on over the course of the Data Analyst Programme.
 <br><br>
 This is a presentation on the practical application of data science in Healthcare.
 The different aspects of the basics of data science application in Healthcare were identified including the benefits and pitfalls.
-Please click on the title to access the slides.>
+Please click on the title to access the slides.
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
