@@ -34,7 +34,7 @@ I've used basic SQL queries to perform exploratory analysis on the data.  The in
 The data is then imported into Excel Power Query directly from Dbeaver.  Further data preparation is performed through Power Query.
 Besides using Power Pivot Charts for the interactive dashboards, I have also included a 3D map tour and word clouds for better visualization.
 <br><br>
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Capstone2_DB1.png?raw=true"/>
 
 ---
 
