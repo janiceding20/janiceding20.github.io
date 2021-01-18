@@ -10,10 +10,16 @@ Projects which I've worked on over the course of the Data Analyst Programme.
 This is a presentation on the practical application of data science in Healthcare.
 The different aspects of the basics of data science application in Healthcare were identified including the benefits and pitfalls.
 <br>
-Please click on the title to access the slides.
+Please click on the title to view the slides.
 
 ---
 [Capstone 1: Interactive Dashboards and Data Storytelling with Excel](janiceding20.github.io/pdf/Capstone1_Interactive DB.pdf)
+<br><br>
+The objective of this project is to exhibit the 5 stages of data life cycle through the use of MS Excel.
+The topline financial data of a leasing company was collected and load to Power Query to perform data cleaning and transformation.
+Exploratory data analysis was performed on the data to derive useful insights.
+The business performance and insights are translated using power pivot charts and data summarization techniques into interactive dashboards and visualization. 
+<br>
 <img src="images/Capstone1_DB1.png?raw=true"/>
 
 ---
