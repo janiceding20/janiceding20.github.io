@@ -45,10 +45,6 @@ Besides using Power Pivot Charts for the interactive dashboards, I have also inc
 
 
 
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
